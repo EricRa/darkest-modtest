@@ -1,6 +1,6 @@
 ## Instructions
 
-All mod files are included in the /mod subdirectory.
+Each individual mod is contained in a separate subdirectory here.
 
 Installation via the Steam Workshop is recommended for most mods.
 
