@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<ItemDescriptionShort/>
+	<ModDataPath>D:\SteamLibrary\steamapps\common\DarkestDungeon\mods\dismas_quirk</ModDataPath>
+	<Title>Dismas Quirk Replacement</Title>
+	<Language>english</Language>
+	<UpdateDetails>Initial Version</UpdateDetails>
+	<Visibility>private</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>1</VersionMinor>
+	<TargetBuild>25688</TargetBuild>
+	<Tags>
+		<Tags>Dismas</Tags>
+		<Tags>Quirks</Tags>
+	</Tags>
+	<ItemDescription>This mod replaces Dismas' starting quirk "Quick Reflexes" with the less impressive custom quirk "Terrible Shot"</ItemDescription>
+</project>
+
